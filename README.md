@@ -39,8 +39,8 @@ expo start --android
 
 # Run project by real device using Expo Go Application
 ## Download application:
-### iOS: https://itunes.com/apps/exponent
-### Android: https://play.google.com/store/apps/details?id=host.exp.exponent
+#### iOS: https://itunes.com/apps/exponent
+#### Android: https://play.google.com/store/apps/details?id=host.exp.exponent
 #### Run the commandline and check the link open from brower
 ```
 expo start

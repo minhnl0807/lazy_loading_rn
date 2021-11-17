@@ -14,6 +14,13 @@ npm install --global expo-cli
 https://code.visualstudio.com/download
 
 ## 4. Open iOS Simulator from Xcode or Android Emulator
+### 4.1. Install XCode
+
+https://apps.apple.com/gb/app/xcode/id497799835?mt=12
+
+```
+sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer
+```
 
 ## 5. Setup project commands:
 ```
